@@ -5,9 +5,8 @@ I have hands-on experience in **Test-Driven Development**, **Systems Architectur
 ## Core Foundations
 - Object-Oriented Programming
 - Data Structures & Algorithms
-- Operating Systems
-- CI/CD Pipelines
 - Agile Methodologies
+- CI/CD Pipelines
 
 ## Programming & Scripting
 - Python, GDScript, Java
