@@ -1,16 +1,30 @@
-## Hi there 👋
+I'm a final-year **Software Engineering student** with a strong foundation in **Computer Science** and **GNU/Linux systems**. I have hands-on experience in **Test-Driven Development** and **Systems Architecture**.  
 
-<!--
-**cskhomo/cskhomo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+## Core Foundations
+- Object-Oriented Programming
+- Data Structures & Algorithms
+- Operating Systems
+- CI/CD Pipelines
+- Agile Methodologies
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Programming & Scripting
+- Python, GDScript, Java
+- HTML, CSS, JavaScript
+- Bash, SQL
+
+## Systems & Infrastructure
+- GNU/Linux
+- Docker
+- Kubernetes
+
+## Additional
+- Graphic Design
+- Game Development
+
+
+## Current Focus
+
+- Contributing to open-source projects
+- Deepening Linux systems knowledge
+- Exploring **game development**
