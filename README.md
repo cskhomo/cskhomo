@@ -27,3 +27,8 @@ I have hands-on experience in **Test-Driven Development**, **Systems Architectur
 - Contributing to open-source projects
 - Deepening Linux systems knowledge
 - Exploring game development
+
+## GitHub Stats
+![Sizwe's GitHub Stats](https://github-readme-stats.vercel.app/api?username=cskhomo&show_icons=true&theme=dark&count_private=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=cskhomo&layout=compact&theme=dark)
