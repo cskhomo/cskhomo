@@ -18,7 +18,7 @@ I have hands-on experience in **Test-Driven Development**, **Systems Architectur
 <br>
 
 ![Bash](https://img.shields.io/badge/bash-1F1F1F?style=for-the-badge&logo=gnu-bash&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-1F1F1F?style=for-the-badge&logo=postgresql&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-1F1F1F?style=for-the-badge&logo=sqlite&logoColor=white)
 
 ## Infrastructure
 ![Linux](https://img.shields.io/badge/Linux-1F1F1F?style=for-the-badge&logo=linux&logoColor=white)
@@ -36,3 +36,5 @@ I have hands-on experience in **Test-Driven Development**, **Systems Architectur
 🔹 Contributing to open-source projects <br>
 🔹 Deepening Linux systems knowledge <br>
 🔹 Exploring game development
+
+    
