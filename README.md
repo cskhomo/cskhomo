@@ -8,12 +8,12 @@ I have hands-on experience in **Test-Driven Development**, **Systems Architectur
 - Agile Methodologies
 - CI/CD Pipelines
 
-## Programming & Scripting
+## Programming
 - Python, GDScript, Java
 - HTML, CSS, JavaScript
 - Bash, SQL
 
-## Systems & Infrastructure
+## Infrastructure
 - GNU/Linux
 - Docker
 - Kubernetes
