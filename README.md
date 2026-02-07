@@ -1,4 +1,4 @@
-I'm a final-year **Software Engineering student** with a strong foundation in **Computer Science** and **GNU/Linux systems**. I have hands-on experience in **Test-Driven Development** and **Systems Architecture**.  
+I'm a final-year **Software Engineering student** with a strong foundation in **Computer Science** and **GNU/Linux systems**. <br> I have hands-on experience in **Test-Driven Development** and **Systems Architecture**.  
 
 
 ## Core Foundations
