@@ -1,21 +1,5 @@
-<table>
-<tr>
-  <td>
-
 I'm a final-year **Software Engineering student** with a strong foundation in **Computer Science** and **GNU/Linux systems**.<br>
 I have hands-on experience in **Test-Driven Development**, **Systems Architecture**, and managing **build and deployment processes**.
-
-  </td>
-  <td>
-
-![](https://github-readme-stats.vercel.app/api?username=CSKHOMO&theme=highcontrast&hide_border=false&include_all_commits=true&count_private=true&hide_title=true&hide_rank=true&width=250)<br>
-![Streak Stats](https://nirzak-streak-stats.vercel.app/?user=CSKHOMO&theme=highcontrast&hide_border=false&width=250)<br>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=CSKHOMO&theme=highcontrast&hide_border=false&include_all_commits=true&count_private=true&layout=compact&width=250)
-
-  </td>
-</tr>
-</table>
-
 
 ## Core Foundations
 - Object-Oriented Programming
@@ -53,3 +37,7 @@ I have hands-on experience in **Test-Driven Development**, **Systems Architectur
 - Contributing to open-source projects
 - Deepening Linux systems knowledge
 - Exploring game development
+
+![](https://github-readme-stats.vercel.app/api?username=CSKHOMO&theme=highcontrast&hide_border=false&include_all_commits=true&count_private=true&hide_title=true&hide_rank=true&width=250)<br>
+![](https://nirzak-streak-stats.vercel.app/?user=CSKHOMO&theme=highcontrast&hide_border=false&width=250)<br>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=CSKHOMO&theme=highcontrast&hide_border=false&include_all_commits=true&count_private=true&layout=compact&width=250)
