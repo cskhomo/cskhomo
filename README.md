@@ -20,9 +20,8 @@ I have hands-on experience in **Test-Driven Development**, **Systems Architectur
 - Kubernetes
 
 ## Additional
-- Graphic Design
 - Game Development
-
+- Graphic Design
 
 ## Current Focus
 
