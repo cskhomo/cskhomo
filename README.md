@@ -30,7 +30,7 @@ I have hands-on experience in **Test-Driven Development**, **Systems Architectur
 
 ## Additional
 ![Game Development](https://img.shields.io/badge/Game_Development-1F1F1F?style=for-the-badge&logo=unity&logoColor=white)
-![Graphic Design](https://img.shields.io/badge/Graphic_Design-1F1F1F?style=for-the-badge&logo=figma&logoColor=white)
+![Graphic Design](https://img.shields.io/badge/Graphic_Design-1F1F1F?style=for-the-badge&logo=inkscape&logoColor=white)
 
 ## Current Focus
 🔹 Contributing to open-source projects <br>
