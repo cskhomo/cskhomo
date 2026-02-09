@@ -1,5 +1,5 @@
 I'm a final-year **Software Engineering student** with a strong foundation in **Computer Science** and **GNU/Linux systems**.<br>
-I have hands-on experience in **Test-Driven Development**, **Systems Architecture**, and managing **build and deployment processes**.
+I have hands-on experience in **Test-Driven Development**, **Systems Architecture**, and managing **build processes**.
 
 ## Core Foundations
 🔹 Object-Oriented Programming &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 🔹 Continuous Intergration/Deployment <br>
