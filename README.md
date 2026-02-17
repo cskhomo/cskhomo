@@ -8,9 +8,9 @@ I have hands-on experience in **Test-Driven Development**, **Systems Architectur
 
 
 ## Programming
+![C++](https://img.shields.io/badge/C%2B%2B-1F1F1F?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![Python](https://img.shields.io/badge/python-1F1F1F?style=for-the-badge&logo=python&logoColor=white)
 ![GDScript](https://img.shields.io/badge/GDScript-1F1F1F?style=for-the-badge&logo=godot-engine&logoColor=white)
-![Java](https://img.shields.io/badge/java-1F1F1F?style=for-the-badge&logo=openjdk&logoColor=white)
 <br>
 
 ![HTML5](https://img.shields.io/badge/html5-1F1F1F?style=for-the-badge&logo=html5&logoColor=white)
