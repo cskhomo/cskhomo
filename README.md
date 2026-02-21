@@ -13,11 +13,6 @@ I have hands-on experience in **Test-Driven Development**, **Systems Architectur
 ![GDScript](https://img.shields.io/badge/GDScript-1F1F1F?style=for-the-badge&logo=godot-engine&logoColor=white)
 <br>
 
-![HTML5](https://img.shields.io/badge/html5-1F1F1F?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/css3-1F1F1F?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/javascript-1F1F1F?style=for-the-badge&logo=javascript&logoColor=white)
-<br>
-
 ![Bash](https://img.shields.io/badge/bash-1F1F1F?style=for-the-badge&logo=gnu-bash&logoColor=white)
 ![SQLite](https://img.shields.io/badge/SQLite-1F1F1F?style=for-the-badge&logo=sqlite&logoColor=white)
 
