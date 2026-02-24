@@ -2,7 +2,7 @@ I'm a final-year **Software Engineering student** with a strong foundation in **
 I have hands-on experience in **Test-Driven Development**, **Systems Architecture**, and managing **Build Processes**.
 
 ## Core Foundations
-🔹 Object-Oriented Programming &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 🔹 Continuous Intergration/Deployment <br>
+🔹 Object-Oriented Programming &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 🔹 Continuous Integration/Deployment <br>
 🔹 Event-Driven Architecture &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;     🔹 Software Development Lifecycle <br>
 🔹 Data Structures & Algorithms &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 🔹 Agile Methodologies
 
