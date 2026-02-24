@@ -31,6 +31,4 @@ I have hands-on experience in **Test-Driven Development**, **Systems Architectur
 ## Current Focus
 🔹 Contributing to open-source projects <br>
 🔹 Deepening Linux systems knowledge <br>
-🔹 Exploring game development
-
-    
+  
