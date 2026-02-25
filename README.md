@@ -7,7 +7,6 @@
 ## Programming
 ![C++](https://img.shields.io/badge/C%2B%2B-1F1F1F?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![Python](https://img.shields.io/badge/python-1F1F1F?style=for-the-badge&logo=python&logoColor=white)
-![GDScript](https://img.shields.io/badge/GDScript-1F1F1F?style=for-the-badge&logo=godot-engine&logoColor=white)
 <br>
 
 ![Bash](https://img.shields.io/badge/bash-1F1F1F?style=for-the-badge&logo=gnu-bash&logoColor=white)
