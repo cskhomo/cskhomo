@@ -5,6 +5,7 @@
 using namespace student;
 ```
 
+# main
 I'm a final-year **Software Engineering student** with a strong foundation in **Computer Science** and **Linux systems**. <br>
 I have hands-on experience in **Test-Driven Development**, **Systems Architecture**, and managing **Build Processes**.
 
