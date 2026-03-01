@@ -29,10 +29,6 @@ I have hands-on experience in **Test-Driven Development**, **Systems Architectur
 ![Docker](https://img.shields.io/badge/Docker-1F1F1F?style=for-the-badge&logo=docker&logoColor=white)
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-1F1F1F?style=for-the-badge&logo=kubernetes&logoColor=white)
 
-## Additional
-![Game Development](https://img.shields.io/badge/Game_Development-1F1F1F?style=for-the-badge&logo=unity&logoColor=white)
-![Graphic Design](https://img.shields.io/badge/Graphic_Design-1F1F1F?style=for-the-badge&logo=inkscape&logoColor=white)
-
 ## Current Focus
 🔹 Contributing to open-source projects <br>
 🔹 Deepening Linux systems knowledge <br>
