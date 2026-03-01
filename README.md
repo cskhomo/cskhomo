@@ -13,7 +13,6 @@ I have hands-on experience in **Test-Driven Development**, **Systems Architectur
 🔹 Event-Driven Architecture &ensp; &ensp; &emsp; &emsp; &emsp; 🔹 Software Development Lifecycle <br>
 🔹 Data Structures & Algorithms &ensp;&thinsp; &ensp;&thinsp; &emsp;&ensp; 🔹 Agile Methodologies
 
-
 ## Programming
 ![C++](https://img.shields.io/badge/C%2B%2B-1F1F1F?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![Python](https://img.shields.io/badge/python-1F1F1F?style=for-the-badge&logo=python&logoColor=white)
@@ -37,4 +36,8 @@ I have hands-on experience in **Test-Driven Development**, **Systems Architectur
 ## Current Focus
 🔹 Contributing to open-source projects <br>
 🔹 Deepening Linux systems knowledge <br>
-  
+
+## Featured Work
+🔹 **[Araknide](https://github.com/cskhomo/araknide)**
+> Automatically collects latest changes from [KDE Open-Source Apps](https://apps.kde.org/) <br>
+> Generates clean summaries for their [Weekly Article](https://blogs.kde.org/categories/this-week-in-kde-apps).
