@@ -5,8 +5,7 @@
 using namespace student;
 ```
 
-I'm a final-year **Software Engineering student** with a strong foundation in **Computer Science** and **GNU/Linux systems**.<br>
-I have hands-on experience in **Test-Driven Development**, **Systems Architecture**, and managing **Build Processes**.
+I'm a final-year **Software Engineering student** with a strong foundation in **Computer Science** and **GNU/Linux systems**. I have hands-on experience in **Test-Driven Development**, **Systems Architecture**, and managing **Build Processes**.
 
 ## Core Foundations
 🔹 Object-Oriented Programming &ensp;&thinsp; &ensp;&thinsp;  &emsp; 🔹 Continuous Integration/Deployment <br>
