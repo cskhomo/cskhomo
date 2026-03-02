@@ -11,7 +11,7 @@ I have hands-on experience in **Test-Driven Development**, **Systems Architectur
 
 ## Featured Work
 🔹 **[Araknide](https://github.com/cskhomo/araknide) - Data Engineering | Automation**
-> Collects Latest Updates on Repos of [KDE Apps](https://apps.kde.org/ "Open-Source Applications by the KDE Community") and Generates Weekly Summaries for [KDE Blogs](https://blogs.kde.org/categories/this-week-in-kde-apps "Weekly Articles with Updates & Releases for KDE Apps").
+> *Collects Latest Updates on Repos of [KDE Apps](https://apps.kde.org/ "Open-Source Applications by the KDE Community") and Generates Weekly Summaries for [KDE Blogs](https://blogs.kde.org/categories/this-week-in-kde-apps "Weekly Articles with Updates & Releases for KDE Apps").*
 
 ## Core Foundations
 🔹 Object-Oriented Programming &ensp;&thinsp; &ensp;&thinsp;  &emsp; 🔹 Continuous Integration/Deployment <br>
@@ -36,5 +36,5 @@ I have hands-on experience in **Test-Driven Development**, **Systems Architectur
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-1F1F1F?style=for-the-badge&logo=kubernetes&logoColor=white)
 
 ## Current Focus
-🔹 Contributing to Open-Source Projects <br>
-🔹 Deepening Linux Systems Knowledge <br>
+🔹 Contributing to Open-Source Projects. <br>
+🔹 Deepening Linux Systems Knowledge. <br>
