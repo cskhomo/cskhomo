@@ -14,10 +14,11 @@ I have hands-on experience in **Test-Driven Development**, **Systems Architectur
 > *Collects Latest Updates on Repos of [KDE Apps](https://apps.kde.org/ "Open-Source Applications by the KDE Community") and Generates Weekly Summaries for [KDE Blogs](https://blogs.kde.org/categories/this-week-in-kde-apps "Weekly Articles with Updates & Releases for KDE Apps").*
 
 ## Core Foundations
-🔹 Object-Oriented Programming &ensp;&thinsp; &ensp;&thinsp;  &emsp; 🔹 Continuous Integration/Deployment <br>
-🔹 Event-Driven Architecture &ensp; &ensp; &emsp; &emsp; &emsp; 🔹 Software Development Lifecycle <br>
-🔹 Data Structures & Algorithms &ensp;&thinsp; &ensp;&thinsp; &emsp;&ensp; 🔹 Agile Methodologies
-
+```
+🔹 Object-Oriented Programming        🔹 Continuous Integration/Deployment
+🔹 Event-Driven Architecture          🔹 Software Development Lifecycle <br>
+🔹 Data Structures & Algorithms       🔹 Agile Methodologies
+```
 
 ## Programming
 ![C++](https://img.shields.io/badge/C%2B%2B-1F1F1F?style=for-the-badge&logo=c%2B%2B&logoColor=white)
