@@ -13,8 +13,8 @@ I have hands-on experience in **Test-Driven Development**, **Systems Architectur
 ## Featured Work
 🔹 **[Araknide](https://github.com/cskhomo/araknide) - Data Engineering | Automation** 
 
-> *Collects Latest Updates from Repos of 200+ [KDE Apps](https://apps.kde.org/ "Open-Source Applications by the KDE Community") and Generates Weekly Summaries for [KDE Blogs](https://blogs.kde.org/categories/this-week-in-kde-apps "Weekly Articles with Updates & Releases for KDE Apps").* <br>
-> *Collects Latest Updates from Repos of 200+ [KDE Apps](https://apps.kde.org/ "Open-Source Applications by the KDE Community") and Generates Weekly Summaries for [KDE Blogs](https://blogs.kde.org/categories/this-week-in-kde-apps "Weekly Articles with Updates & Releases for KDE Apps").* <br>
+> *Collects latest merge requests from Repos of 200+ [KDE Apps](https://apps.kde.org/ "Open-Source Applications by the KDE Community") on a weekly Cron job. <br>
+> Converts collected JSON data into structured Markdown summaries for [KDE Blogs](https://blogs.kde.org/categories/this-week-in-kde-apps "Weekly Articles with Updates & Releases for KDE Apps").* <br>
 
 ![Python](https://img.shields.io/badge/python-1F1F1F?style=for-the-badge&logo=python)
 ![Bash](https://img.shields.io/badge/bash-1F1F1F?style=for-the-badge&logo=gnu-bash)
