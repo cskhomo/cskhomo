@@ -20,7 +20,17 @@ I have hands-on experience in **Test-Driven Development**, **Systems Architectur
 ![GitLab API](https://img.shields.io/badge/GitLab_API-1F1F1F?style=flat-square&logo=gitlab)
 <br>
 <br>
-🔹 **[Hears](https://github.com/cskhomo/hears.you) - Desktop Application | Speech-to-Text**  
+🔹 **[Defines](https://github.com/cskhomo/defines) - Developer Tool | Client–Server Architecture**  
+
+> *Provides beginner-friendly definitions for programming terms in the CLI.*  
+> *Supports remote API lookups and offline caching of common definitions.*<br>
+
+![C++](https://img.shields.io/badge/C++-1F1F1F?style=flat-square&logo=cplusplus)
+![SQLite](https://img.shields.io/badge/SQLite-1F1F1F?style=flat-square&logo=sqlite)
+![Node.js](https://img.shields.io/badge/Node.js-1F1F1F?style=flat-square&logo=nodedotjs)
+<br>
+<br>
+🔹 **[Hears](https://github.com/cskhomo/hears.you) - Speech-to-Text | Desktop Application**  
 
 > *Converts audio recordings captured in real time into plain-text notes.*  
 > *Supports manual editing of transcribed documents and file storage.*<br>
