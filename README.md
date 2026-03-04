@@ -7,7 +7,8 @@ using namespace student;
 
 # main
 I'm a final-year Software Engineering Student with a strong foundation in Computer Science and Linux systems. <br>
-I have hands-on experience in Test-Driven Development, Distributed Systems, and Software Design.
+I have hands-on experience in Test-Driven Development, Client–Server Architecture  
+and Systems Design.
 
 ## Featured Work
 🔹 **[Araknide](https://github.com/cskhomo/araknide) - Automation | Data Engineering** 
@@ -21,8 +22,7 @@ I have hands-on experience in Test-Driven Development, Distributed Systems, and 
 ![Docker](https://img.shields.io/badge/Docker-1F1F1F?style=flat-square&logo=docker)
 <br>
 <br>
-🔹 **[Defines](https://github.com/cskhomo/defines.you) - Developer Tool | Client–Server Architecture**  
-
+🔹 **[Defines](https://github.com/cskhomo/defines.you) - Developer Tool | Distributed System**
 > *Provides beginner-friendly definitions for programming terms in the CLI.*  
 > *Supports remote API lookups and offline caching of common definitions.*<br>
 
