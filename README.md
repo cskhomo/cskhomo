@@ -21,7 +21,7 @@ I have hands-on experience in Test-Driven Development, Client–Server Architect
 ![Docker](https://img.shields.io/badge/Docker-1F1F1F?style=flat-square&logo=docker)
 <br>
 <br>
-🔹 **[Defines](https://github.com/cskhomo/defines.you) - Developer Tool | Distributed System**
+🔹 **[Defines](https://github.com/cskhomo/defines.you) - Developer Tool | Distributed Systems**
 > *Provides beginner-friendly definitions for programming terms in the CLI.*  
 > *Supports remote API lookups and offline caching of common definitions.*<br>
 
