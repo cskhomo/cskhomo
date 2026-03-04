@@ -19,8 +19,8 @@ I have hands-on experience in Test-Driven Development, Client–Server Architect
 ![Bash](https://img.shields.io/badge/Bash-1F1F1F?style=flat-square&logo=gnu-bash)
 ![GitLab API](https://img.shields.io/badge/GitLab_API-1F1F1F?style=flat-square&logo=gitlab)
 ![Docker](https://img.shields.io/badge/Docker-1F1F1F?style=flat-square&logo=docker)
-<br>
-<br>
+<hr>
+
 🔹 **[Defines](https://github.com/cskhomo/defines.you) - Developer Tool | Distributed Systems**
 > *Provides beginner-friendly definitions for programming terms in the CLI.*  
 > *Supports remote API lookups and offline caching of common definitions.*<br>
@@ -29,8 +29,8 @@ I have hands-on experience in Test-Driven Development, Client–Server Architect
 ![SQLite](https://img.shields.io/badge/SQLite-1F1F1F?style=flat-square&logo=sqlite)
 ![Node.js](https://img.shields.io/badge/Node.js-1F1F1F?style=flat-square&logo=nodedotjs)
 ![Linux](https://img.shields.io/badge/Linux-1F1F1F?style=flat-square&logo=linux)
-<br>
-<br>
+<hr>
+
 🔹 **[Hears](https://github.com/cskhomo/hears.you) - Speech-to-Text | Desktop Application**  
 
 > *Converts audio recordings captured in real time into plain-text notes.*  
