@@ -18,6 +18,7 @@ I have hands-on experience in Test-Driven Development, Distributed Systems, and 
 ![Python](https://img.shields.io/badge/Python-1F1F1F?style=flat-square&logo=python)
 ![Bash](https://img.shields.io/badge/Bash-1F1F1F?style=flat-square&logo=gnu-bash)
 ![GitLab API](https://img.shields.io/badge/GitLab_API-1F1F1F?style=flat-square&logo=gitlab)
+![Docker](https://img.shields.io/badge/Docker-1F1F1F?style=flat-square&logo=docker)
 <br>
 <br>
 🔹 **[Defines](https://github.com/cskhomo/defines.you) - Developer Tool | Client–Server Architecture**  
@@ -28,6 +29,7 @@ I have hands-on experience in Test-Driven Development, Distributed Systems, and 
 ![C++](https://img.shields.io/badge/C++-1F1F1F?style=flat-square&logo=cplusplus)
 ![SQLite](https://img.shields.io/badge/SQLite-1F1F1F?style=flat-square&logo=sqlite)
 ![Node.js](https://img.shields.io/badge/Node.js-1F1F1F?style=flat-square&logo=nodedotjs)
+![Linux](https://img.shields.io/badge/Linux-1F1F1F?style=flat-square&logo=linux)
 <br>
 <br>
 🔹 **[Hears](https://github.com/cskhomo/hears.you) - Speech-to-Text | Desktop Application**  
@@ -38,6 +40,7 @@ I have hands-on experience in Test-Driven Development, Distributed Systems, and 
 ![Python](https://img.shields.io/badge/Python-1F1F1F?style=flat-square&logo=python)
 ![Whisper AI](https://custom-icon-badges.demolab.com/badge/Whisper_AI-1F1F1F?style=flat-square&logo=openai)
 ![GUI](https://img.shields.io/badge/GUI-1F1F1F?style=flat-square&logo=godotengine)
+![Windows](https://custom-icon-badges.demolab.com/badge/Windows-1F1F1F?style=flat-square&logo=windows)
 
 ## Core Foundations
 ```
