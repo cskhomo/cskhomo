@@ -7,8 +7,7 @@ using namespace student;
 
 # main
 I'm a final-year Software Engineering Student with a strong foundation in Computer Science and Linux systems. <br>
-I have hands-on experience in Test-Driven Development, Client–Server Architecture  
-and Systems Design.
+I have hands-on experience in Test-Driven Development, Client–Server Architecture and Systems Design.
 
 ## Featured Work
 🔹 **[Araknide](https://github.com/cskhomo/araknide) - Automation | Data Engineering** 
