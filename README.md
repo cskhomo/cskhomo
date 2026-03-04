@@ -10,7 +10,7 @@ I'm a final-year **Software Engineering Student** with a strong foundation in **
 I have hands-on experience in **Test-Driven Development**, **Systems Architecture**, and managing **Build Processes**.
 
 ## Featured Work
-🔹 **[Araknide](https://github.com/cskhomo/araknide) — Automation | Data Engineering** 
+🔹 **[Araknide](https://github.com/cskhomo/araknide) - Automation | Data Engineering** 
 
 > *Collects latest merge requests from Repos of 200+ [KDE Apps](https://apps.kde.org/ "Open-Source Applications by the KDE Community") on a weekly Cron job.* <br>
 > *Converts collected JSON data into structured Markdown summaries for [KDE Blogs](https://blogs.kde.org/categories/this-week-in-kde-apps "Weekly Articles with Updates & Releases for KDE Apps").*<br>
@@ -20,7 +20,7 @@ I have hands-on experience in **Test-Driven Development**, **Systems Architectur
 ![GitLab API](https://img.shields.io/badge/GitLab_API-1F1F1F?style=flat-square&logo=gitlab)
 <br>
 <br>
-🔹 **[Hears](https://github.com/cskhomo/hears.you) — Desktop Application | Speech-to-Text**  
+🔹 **[Hears](https://github.com/cskhomo/hears.you) - Desktop Application | Speech-to-Text**  
 
 > *Converts audio recordings captured in real time into plain-text notes.*  
 > *Supports manual editing of transcribed documents and file storage.*<br>
