@@ -20,7 +20,7 @@ I have hands-on experience in Test-Driven Development, Distributed Systems, and 
 ![GitLab API](https://img.shields.io/badge/GitLab_API-1F1F1F?style=flat-square&logo=gitlab)
 <br>
 <br>
-🔹 **[Defines](https://github.com/cskhomo/defines) - Developer Tool | Client–Server Architecture**  
+🔹 **[Defines](https://github.com/cskhomo/defines.you) - Developer Tool | Client–Server Architecture**  
 
 > *Provides beginner-friendly definitions for programming terms in the CLI.*  
 > *Supports remote API lookups and offline caching of common definitions.*<br>
