@@ -6,8 +6,8 @@ using namespace student;
 ```
 
 # main
-I'm a final-year **Software Engineering Student** with a strong foundation in **Computer Science** and **Linux systems**. <br>
-I have hands-on experience in **Test-Driven Development**, **Systems Architecture**, and managing **Build Processes**.
+I'm a final-year Software Engineering Student with a strong foundation in Computer Science and Linux systems. <br>
+I have hands-on experience in Test-Driven Development, Distributed Systems, and Software Design.
 
 ## Featured Work
 🔹 **[Araknide](https://github.com/cskhomo/araknide) - Automation | Data Engineering** 
