@@ -13,7 +13,7 @@ I have hands-on experience in Test-Driven Development, Client–Server Architect
 🔹 **[Araknide](https://github.com/cskhomo/araknide) - Automation | Data Engineering** 
 
 > *Built for open-source maintainers to simplify compiling progress reports on multiple projects.*  
-> *Collects latest merge requests from repositories across 200+ [KDE Apps](https://apps.kde.org/ "Open-Source Applications by the KDE Community") on a weekly Cron job.*  
+> *Collects latest merge requests from repositories across 200+ [KDE Apps](https://apps.kde.org/ "Open-Source Applications by the KDE Community") on a weekly basis.*  
 > *Converts collected JSON data into structured Markdown summaries for [KDE Blogs](https://blogs.kde.org/categories/this-week-in-kde-apps "Weekly Articles with Updates & Releases for KDE Apps").*  
 
 ![Python](https://img.shields.io/badge/Python-1F1F1F?style=flat-square&logo=python)
