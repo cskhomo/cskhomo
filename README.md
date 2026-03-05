@@ -27,9 +27,9 @@ I have hands-on experience in Test-Driven Development, Client–Server Architect
 > *Provides beginner-friendly definitions for programming terms directly in the CLI.*  
 > *Supports remote API lookups and offline caching of common definitions.*  
 
-![C++](https://img.shields.io/badge/C++-1F1F1F?style=flat-square&logo=cplusplus)
-![SQLite](https://img.shields.io/badge/SQLite-1F1F1F?style=flat-square&logo=sqlite)
+![C++](https://img.shields.io/badge/C++-1F1F1F?style=flat-square&logo=cplusplus&logoColor=00599C)
 ![Node.js](https://img.shields.io/badge/Node.js-1F1F1F?style=flat-square&logo=nodedotjs)
+![SQLite](https://img.shields.io/badge/SQLite-1F1F1F?style=flat-square&logo=sqlite&logoColor=003B57)
 ![Linux](https://img.shields.io/badge/Linux-1F1F1F?style=flat-square&logo=linux)
 <hr>
 
