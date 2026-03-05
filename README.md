@@ -24,7 +24,7 @@ I have hands-on experience in Test-Driven Development, Client–Server Architect
 
 🔹 **[Defines](https://github.com/cskhomo/defines.you) - Developer Tool | Distributed Systems**
 > *Built for developers who need quick explanations without leaving the terminal.*  
-> *Provides beginner-friendly definitions for programming terms in the CLI.*  
+> *Provides beginner-friendly definitions for programming terms directly in the CLI.*  
 > *Supports remote API lookups and offline caching of common definitions.*  
 
 ![C++](https://img.shields.io/badge/C++-1F1F1F?style=flat-square&logo=cplusplus)
