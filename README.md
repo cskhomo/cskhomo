@@ -36,7 +36,7 @@ I have hands-on experience in Test-Driven Development, Client–Server Architect
 🔹 **[Hears](https://github.com/cskhomo/hears.you) - Speech-to-Text | Desktop Application**  
 
 > *Built for doctors to quickly convert spoken conversations into patient notes.*  
-> *Transcribes audio recordings in real time into a live text document.*   
+> *Transcribes audio recordings in real time onto a live text document.*   
 > *Supports manual editing and long-term storage of transcribed notes.*  
 
 ![Python](https://img.shields.io/badge/Python-1F1F1F?style=flat-square&logo=python)
