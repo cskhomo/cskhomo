@@ -12,7 +12,7 @@ I have hands-on experience in Test-Driven Development, Client–Server Architect
 ## Featured Work
 🔹 **[Araknide](https://github.com/cskhomo/araknide) - Automation | Data Engineering** 
 
-> *Collects latest merge requests from Repos of 200+ [KDE Apps](https://apps.kde.org/ "Open-Source Applications by the KDE Community") on a weekly Cron job.* <br>
+> *Collects latest merge requests from repositories across 200+ [KDE Apps](https://apps.kde.org/ "Open-Source Applications by the KDE Community") on a weekly Cron job.* <br>
 > *Converts collected JSON data into structured Markdown summaries for [KDE Blogs](https://blogs.kde.org/categories/this-week-in-kde-apps "Weekly Articles with Updates & Releases for KDE Apps").*<br>
 
 ![Python](https://img.shields.io/badge/Python-1F1F1F?style=flat-square&logo=python)
@@ -22,6 +22,7 @@ I have hands-on experience in Test-Driven Development, Client–Server Architect
 <hr>
 
 🔹 **[Defines](https://github.com/cskhomo/defines.you) - Developer Tool | Distributed Systems**
+> *Built for developers who need quick explanations without leaving the terminal.*  
 > *Provides beginner-friendly definitions for programming terms in the CLI.*  
 > *Supports remote API lookups and offline caching of common definitions.*<br>
 
@@ -33,7 +34,7 @@ I have hands-on experience in Test-Driven Development, Client–Server Architect
 
 🔹 **[Hears](https://github.com/cskhomo/hears.you) - Speech-to-Text | Desktop Application**  
 
-> *Converts audio recordings captured in real time into plain-text notes.*  
+> *Transcribes audio recordings in real-time onto a live plain-text document*  
 > *Supports manual editing of transcribed documents and file storage.*<br>
 
 ![Python](https://img.shields.io/badge/Python-1F1F1F?style=flat-square&logo=python)
