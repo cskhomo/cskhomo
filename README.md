@@ -47,8 +47,7 @@ I have hands-on experience in Test-Driven Development, Client–Server Architect
 ## Core Foundations
 ```
 🔹 Object-Oriented Programming       🔹 Continuous Integration/Deployment
-🔹 Event-Driven Architecture         🔹 Software Development Lifecycle
-🔹 Data Structures & Algorithms      🔹 Agile Methodologies
+🔹 Data Structures & Algorithms      🔹 Software Development Lifecycle   
 ```
 
 ## Current Focus
