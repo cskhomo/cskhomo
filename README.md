@@ -45,10 +45,12 @@ I have hands-on experience in Test-Driven Development, Client–Server Architect
 ![Windows](https://custom-icon-badges.demolab.com/badge/Windows-1F1F1F?style=flat-square&logo=windows)
 
 ## Core Foundations
-```
-🔹 Object-Oriented Programming       🔹 Continuous Integration/Deployment
-🔹 Data Structures & Algorithms      🔹 Software Development Lifecycle   
-```
+
+| **Computer Sciences**                   | **Software Engineering**                |
+|-----------------------------------------|-----------------------------------------|
+| _Object-Oriented Programming_           | _Continuous Integration/Deployment_     |
+| _Data Structures and Algorithms_        | _Software Development Lifecycle_        |
+| _Database Management Systems_           | _Distributed Version Control_           |
 
 ## Current Focus
 🔹 Contributing to Open-Source Projects. <br>
