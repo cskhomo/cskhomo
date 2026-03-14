@@ -28,7 +28,7 @@ I have hands-on experience in Test-Driven Development, Client–Server Architect
 
 ![C++](https://img.shields.io/badge/C++-1F1F1F?style=flat-square&logo=cplusplus&logoColor=00599C)
 ![Node.js](https://img.shields.io/badge/Node.js-1F1F1F?style=flat-square&logo=nodedotjs)
-![SQLite](https://img.shields.io/badge/SQLite-1F1F1F?style=flat-square&logo=sqlite&logoColor=003B57)
+![SQLite](https://img.shields.io/badge/SQLite-1F1F1F?style=flat-square&logo=sqlite&logoColor=005F79)
 <hr>
 
 🔹 **[Hears](https://github.com/cskhomo/hears.you) - Speech-to-Text | Desktop Application**  
@@ -37,9 +37,9 @@ I have hands-on experience in Test-Driven Development, Client–Server Architect
 > *Transcribes audio recordings in real time onto a live text document.*   
 > *Supports manual editing and long-term storage of transcribed notes.*  
 
-![Python](https://img.shields.io/badge/Python-1F1F1F?style=flat-square&logo=python)
 ![Whisper AI](https://custom-icon-badges.demolab.com/badge/Whisper_AI-1F1F1F?style=flat-square&logo=openai)
-![GUI](https://img.shields.io/badge/GUI-1F1F1F?style=flat-square&logo=godotengine)  
+![Python](https://img.shields.io/badge/Python-1F1F1F?style=flat-square&logo=python)
+![PyQt](https://img.shields.io/badge/PyQt-1F1F1F?style=flat-square&logo=qt)
 
 ## Core Foundations
 
