@@ -9,13 +9,13 @@ body {
 
 .resume {
     background-color: #ffffff; 
-    min-width: 820px;
+    min-width: 850px;
     padding: 40px;
     box-sizing: border-box;
     border-radius: 20px;    
     box-shadow: 0 10px 25px rgba(0, 0, 0, 0.5);
     overflow-y: auto; 
-    overflow-x: hidden;
+    overflow-x: auto;
 }
 
 .download-btn {
