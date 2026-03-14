@@ -1,85 +1,68 @@
-body {
-  font-family: Arial, Helvetica, sans-serif;
-  margin: 0;
-  padding: 0;
-  background: #f5f5f5;
-  color: #333;
-  display: flex;
-  justify-content: center;
-  align-items: flex-start;
+body.resume {
+    background-color: #ffffff;
+    max-width: 800px;
+    margin: 0 auto;
+    padding: 40px;
+    font-family: Georgia, Sans-Serif;
+    color: #000000;
+    line-height: 1.5;
 }
 
-.container {
-  width: 800px;        /* fixed width like PDF page */
-  min-height: 1100px;  /* approximate page height */
-  margin: 40px 0;
-  background: #fff;
-  padding: 40px;
-  box-shadow: 0 5px 20px rgba(0,0,0,0.1);
-  border-radius: 10px;
-  overflow: hidden;
+.main-title {
+    font-size: 24pt;
+    font-weight: bold;
+    color: #0c343d;
+    text-align: center;
+    margin-bottom: 10px;
 }
 
-header {
-  text-align: center;
-  margin-bottom: 30px;
+.contact-info {
+    font-size: 11pt;
+    color: #0c343d;
+    text-align: center;
+    margin-bottom: 20px;
 }
 
-h1 {
-  margin: 0;
-  font-size: 32px;
-  color: #0c343d;
-  white-space: nowrap; /* prevents line breaks */
+.section-title {
+    font-size: 18pt;
+    font-weight: bold;
+    color: #0c343d;
+    text-align: center;
+    margin-top: 30px;
+    margin-bottom: 6px;
 }
 
-.links {
-  margin-top: 10px;
-  line-height: 1.6;
-  color: #0c343d;
-  text-align: center;
-  white-space: nowrap; /* prevents links from wrapping */
+.role {
+    margin-top: 10px;
+    margin-bottom: 4px;
 }
 
-.links a {
-  text-decoration: none;
-  color: #0c343d;
+.bold-role {
+    font-weight: bold;
 }
 
-.profile {
-  margin-top: 15px;
-  line-height: 1.5;
-  text-align: center;
-  white-space: pre; /* preserves line breaks but prevents wrapping */
+.bold-label {
+    font-weight: bold;
 }
 
-section {
-  margin-bottom: 30px;
-}
-
-h2 {
-  border-bottom: 1px solid #eee;
-  padding-bottom: 5px;
-  text-align: center;
-  color: #0c343d;
-  white-space: nowrap; /* headings don’t wrap */
-}
-
-.job, .project {
-  margin-top: 15px;
-}
-
-.job-title, .project-title {
-  font-weight: bold;
-  margin-bottom: 5px;
-  white-space: nowrap; /* keep title on one line */
+.summary {
+    margin-bottom: 20px;
+    text-align: center;
 }
 
 ul {
-  margin-top: 5px;
-  padding-left: 20px;
+    list-style-type: disc;
+    padding-left: 40px;
+    margin-bottom: 15px;
 }
 
-ul li {
-  margin-bottom: 5px;
-  white-space: pre; /* keeps bullet sentences from wrapping */
+a {
+    color: #1155cc;
+    text-decoration: underline;
+}
+
+hr {
+    border: none;
+    border-top: 1px solid #ccc;
+    margin: 10px 0 20px 0;
 }
