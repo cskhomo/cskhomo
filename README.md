@@ -53,4 +53,4 @@ I have hands-on experience in Test-Driven Development, Client–Server Architect
 🔹 Contributing to Open-Source Projects. <br>
 🔹 Deepening Linux Systems Knowledge. <br>
 
-[Download My Resume](https://1drv.ms/f/c/1c17b11b24823726/IgAHZNNC3TS5S514qcqdT9BSAaBjflFA1TESHvgFzFIWOEg?e=OcgxXN "Resume hosted on OneDrive") | [Connect on LinkedIn](https://www.linkedin.com/in/cskhomo/ "LinkedIn Profile")
+[Download My Resume](https://cskhomo.github.io/cskhomo/ "Resume hosted on GitHub Pages") | [Connect on LinkedIn](https://www.linkedin.com/in/cskhomo/ "LinkedIn Profile")
