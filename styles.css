@@ -1,8 +1,12 @@
-body.resume {
+.resume {
     background-color: #ffffff;
     max-width: 800px;
     margin: 0 auto;
     padding: 40px;
+    box-sizing: border-box;
+    border-radius: 20px;    
+    box-shadow: 0 10px 25px rgba(0, 0, 0, 0.5); 
+}
     font-family: Georgia, Sans-Serif;
     color: #000000;
     line-height: 1.5;
