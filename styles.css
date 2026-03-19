@@ -1,3 +1,4 @@
+
 body {
     font-family: Georgia, serif;
     background-color: #f0f0f0;
@@ -8,10 +9,11 @@ body {
 
 .resume {
     background-color: #ffffff; 
-    min-width: 900px;
-    max-width: 900px;
+    min-width: 850px;
+    max-width: 850px;
     align-content: center;
-    padding: 30px;
+    padding-left: 40px;
+    padding-right: 20px;
     margin: 40px auto;
     box-sizing: border-box;
     border-radius: 20px;    
@@ -24,6 +26,7 @@ body {
     color: #888888;
     text-decoration: none;
     margin-bottom: 20px;
+    padding: 20px;
     text-align: right;
 }
 
@@ -69,7 +72,6 @@ body {
 
 .summary {
     margin-bottom: 20px;
-    text-align: center;
 }
 
 ul {
