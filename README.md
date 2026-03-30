@@ -17,7 +17,7 @@ I have hands-on experience in Test-Driven Development, Client–Server Architect
 > *Converts collected JSON data into structured Markdown summaries for [KDE Blogs](https://blogs.kde.org/categories/this-week-in-kde-apps "Weekly Articles with Updates & Releases for KDE Apps").*  
 
 ![Python](https://img.shields.io/badge/Python-1F1F1F?style=flat-square&logo=python)
-![Bash](https://img.shields.io/badge/Bash-1F1F1F?style=flat-square&logo=gnu-bash)
+![Bash](https://img.shields.io/badge/Bash-1F1F1F?style=flat-square&logo=gnu-bash) 
 ![GitLab API](https://img.shields.io/badge/GitLab_API-1F1F1F?style=flat-square&logo=gitlab)
 <hr>
 
