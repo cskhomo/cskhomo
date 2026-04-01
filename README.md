@@ -50,9 +50,5 @@ I have hands-on experience in Test-Driven Development, Client–Server Architect
 | _Database Management Systems_           | _Distributed Version Control_           |
 
 ## Current Focus
-🔹 Contributing to Open-Source Projects. <br>
-🔹 Deepening Linux Systems Knowledge. <br>
-
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=cskhomo&theme=dark&hide_border=true&include_all_commits=true&count_private=false&layout=compact)
-
-[Download My Resume](https://cskhomo.github.io/cskhomo/ "Resume hosted on GitHub Pages") | [Connect on LinkedIn](https://www.linkedin.com/in/cskhomo/ "LinkedIn Profile")
+🔹 Contributing to Open-Source Projects.  
+🔹 Deepening Linux Systems Knowledge.
