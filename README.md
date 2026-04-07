@@ -6,8 +6,7 @@ using namespace student;
 ```
 
 # main
-I'm a final-year Software Engineering Student with a strong foundation in Computer Science and Linux systems.  
-I have hands-on experience in Test-Driven Development, Client–Server Architecture and Systems Design.
+Final-year Software Engineering student graduating in May 2026. Proficient in Test-Driven Development across Python, C++ and Java. Open-Source contributor to the KDE community, building optimization tools and automation workflows that streamline business processes, reducing manual overhead. 
 
 ## Featured Work
 🔹 **[Araknide](https://github.com/cskhomo/araknide) - Automation | Data Engineering** 
