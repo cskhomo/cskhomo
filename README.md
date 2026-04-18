@@ -2,7 +2,7 @@
 #include <open_source>
 #include <gnu_linux>
 
-using namespace automation;
+using namespace fullstack;
 ```
 
 # main
