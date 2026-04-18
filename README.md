@@ -2,11 +2,11 @@
 #include <open_source>
 #include <gnu_linux>
 
-using namespace student;
+using namespace automation;
 ```
 
 # main
-Final-year Software Engineering student graduating in May 2026. Proficient in Test-Driven Development across Python, C++ and Java. Open-Source contributor to the KDE community, building optimization tools and automation workflows that streamline business processes, reducing manual overhead. 
+Junior Software Engineer, proficient in Test-Driven Development across Python, C++ and Java. Open-Source contributor to the KDE community. Building optimization tools and automation workflows that streamline business processes, reducing manual overhead. 
 
 ## Featured Work
 🔹 **[Araknide](https://github.com/cskhomo/araknide) - Automation | Data Engineering** 
